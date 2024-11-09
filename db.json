@@ -1,0 +1,28 @@
+{
+  "registrationData": [
+    {
+      "id": "3442",
+      "fullName": "Keefe Rodriguez",
+      "email": "sokyf@mailinator.com",
+      "username": "zicisaj",
+      "password": "Pa$$w0rd!",
+      "varified": false
+    },
+    {
+      "id": "5919",
+      "fullName": "Rama Holland",
+      "email": "ruhejefijo@mailinator.com",
+      "username": "cywaviqyce",
+      "password": "Pa$$w0rd!!",
+      "varified": true
+    },
+    {
+      "id": "ef7c",
+      "fullName": "Nishant Rabadiya",
+      "email": "nishantrabadiya123@gmail.com",
+      "username": "Nishant.rabadiya",
+      "password": "werweWER234234@#$",
+      "varified": true
+    }
+  ]
+}
